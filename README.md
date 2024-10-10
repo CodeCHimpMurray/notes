@@ -33,3 +33,7 @@ Shortcuts I would like to start using:
 - Alt + F4 (Close active window)
 - Alt + Tab (Switch between open apps)
 - Ctrl + Shift + Esc (Open Task Manager)
+
+[CLI commands][def]
+
+[def]: docs/cli.md
